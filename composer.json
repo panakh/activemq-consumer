@@ -1,0 +1,11 @@
+{
+    "name": "lambda-labs/activemq-consumer",
+    "description": "Component to read from quese",
+    "minimum-stability": "stable",
+    "authors": [
+        {
+            "name": "Hashin Panak",
+            "email": "hashin@lambdalabs.co.uk"
+        }
+    ]
+}
